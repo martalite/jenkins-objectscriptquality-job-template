@@ -1,0 +1,1 @@
+# jenkins-objectscriptquality-job-template
